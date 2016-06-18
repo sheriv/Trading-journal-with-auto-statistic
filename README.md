@@ -1,0 +1,3 @@
+This is a crossplatform treading journal app for keeping track of open and closed positions, getting statistic information(ratios, expectancy, drawdowns) for
+all trades in each journal file. Positions are sorted in chronological order and can be filtered according to their current status. In order to completely access one's 
+strategy it is recommended to save deals made by each strategy in a separate file.
